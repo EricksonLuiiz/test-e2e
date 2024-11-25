@@ -35,7 +35,6 @@ API HTTP desenvolvida em Node.js para demonstrar implementação de testes end-t
 2. Instale as dependências:
 ```bash
 npm install
-npm run test:cov
 ```
 ## 📡 Exemplo de Requisiição e Teste
 ```curl -i -X POST --data '{"username": "EricksonDelfino","password": "e2e"}' localhost:8000/login```
